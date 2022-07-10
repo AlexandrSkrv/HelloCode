@@ -6,7 +6,7 @@
   return result;
 }
 
-int[] array = {11, 21, 31, 41, 115, 61, 17, 18, 19};
+int[] array = { 11, 21, 31, 41, 115, 61, 17, 18, 19 };
 
 
 int result = Max(
